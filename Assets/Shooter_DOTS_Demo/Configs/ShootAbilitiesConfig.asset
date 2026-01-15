@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e4a67ead6a5c4597b2b807be9e7b6a47, type: 3}
+  m_Name: ShootAbilitiesConfig
+  m_EditorClassIdentifier: Assembly-CSharp::Code.Gameplay.ShootAbilities.Configs.ShootAbilitiesConfig
+  shootAbilities:
+  - shootAbilityType: 0
+    cooldown: 0
+    buttonIcon: {fileID: 0}
+  - shootAbilityType: 1
+    cooldown: 1
+    buttonIcon: {fileID: 21300000, guid: 7bc459075b42b4145a02ffc03659943e, type: 3}
+  - shootAbilityType: 2
+    cooldown: 25
+    buttonIcon: {fileID: 21300000, guid: 72c009af8c349427a9ccba8983044c88, type: 3}
+  - shootAbilityType: 3
+    cooldown: 15
+    buttonIcon: {fileID: 21300000, guid: 19fa99c560c4b442da2483bc2a46bbd6, type: 3}
+  - shootAbilityType: 4
+    cooldown: 20
+    buttonIcon: {fileID: 21300000, guid: 49ec7c5bf065f4ccb819c225d505c58c, type: 3}

@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0dce43ed9e39445c48d50770e66e49fc, type: 3}
+  m_Name: GameConfigsInstaller
+  m_EditorClassIdentifier: Assembly-CSharp::Code.Gameplay.Common.GameConfigsInstaller
+  _figureConfig: {fileID: 11400000, guid: 90b95d4a5efc94cc1ae17624a18fe05b, type: 2}
+  _playersConfig: {fileID: 11400000, guid: c7fbfe990fc1d495c84564e965587ed3, type: 2}
+  _shootAbilitiesConfig: {fileID: 11400000, guid: 091be46e1cdc24b7eabb9a97786e6c21, type: 2}

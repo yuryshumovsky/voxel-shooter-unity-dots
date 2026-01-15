@@ -1,0 +1,36 @@
+{
+    "name": "Tests.EditMode",
+    "rootNamespace": "",
+    "references": [
+        "GUID:75469ad4d38634e559750d17036d5f7c",
+        "GUID:f51ebe6a0ceec4240a699833d6309b23",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:734d92eba21c94caba915361bd5ac177",
+        "GUID:d8b63aba1907145bea998dd612889d6b",
+        "GUID:a5baed0c9693541a5bd947d336ec7659",
+        "GUID:e0cd26848372d4e5c891c569017e11f1",
+        "GUID:df380645f10b7bc4b97d4f5eb6303d95",
+        "GUID:7a450cf7ca9694b5a8bfa3fd83ec635a",
+        "GUID:63afb046c8423dd448ae7aba042ea63d",
+        "GUID:2665a8d13d1b3f18800f46e256720795",
+        "GUID:0d8beb7f090555447a6cf5ce9e54dbb4",
+        "Unity.Entities.Hybrid",
+        "VoxelShooter_DOTS_Demo",
+        "GUID:cb6baedf8d4c44758770da871cd9277e"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "nunit.framework.dll"
+    ],
+    "autoReferenced": false,
+    "defineConstraints": [
+        "UNITY_INCLUDE_TESTS"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
